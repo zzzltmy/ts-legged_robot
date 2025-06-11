@@ -1,1 +1,2 @@
 # ts-legged_robot
+该文件记录在legged_competition_robot基础上进行特权信息学习or师生框架的相关代码，仅供参考学习~
